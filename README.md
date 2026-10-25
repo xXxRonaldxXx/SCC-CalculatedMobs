@@ -24,6 +24,12 @@ Hunt a mob with the Stellar Bestiary, imprint its form into a Specimen Core and 
 - **`logs/scc.log`** and `logs/latest.log` (or the crash report if the game crashed).
 - What you did, what you expected, what happened. Screenshots help a lot.
 
+## Links
+
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/scc-calculated-mobs
+- Modrinth: https://modrinth.com/mod/scc-calculated-mobs
+- SCC itself: https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator
+
 ## License
 
 MIT – see [LICENSE](LICENSE).
